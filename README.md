@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ashutosh — MERN stack developer | Building real-world apps </h1>
-# 💫 About Me:
+# 💫 About Me:<br>
 👨‍💻 Name: Ashutosh Tiwari  <br>💻 Role: MERN Stack Developer  <br>📚 Learning: Python, DSA, AI/ML  <br>📦 Also: Managing Family Medicine Business  <br>🚀 Goal: Build Projects & Crack Top Tech Roles  <br>📫 Connect: [@ashu.tiwari_25](https://instagram.com/ashu.tiwari_25)<br>
 
 
@@ -10,11 +10,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashu-tiwari-123&" alt="ashu-tiwari-123" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu-tiwari-123&show_icons=true&locale=en&layout=compact" alt="ashu-tiwari-123" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashu-tiwari-123" alt="ashu-tiwari-123" /></a></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ashu-tiwari-123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashu-tiwari-123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashu-tiwari-123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ashu-tiwari-123&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
