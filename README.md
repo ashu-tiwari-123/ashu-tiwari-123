@@ -1,5 +1,7 @@
 <h1>Hi, I'm Ashutosh — MERN stack developer</h1>
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ashu-tiwari-123)
+
 # 💫 About Me:<br>
 
 👨‍💻 Name: Ashutosh Tiwari <br>💻 Role: MERN Stack Developer <br>📚 Learning: Python, DSA, AI/ML <br>📦 Also: Managing Family Medicine Business <br>🚀 Goal: Build Projects & Crack Top Tech Roles <br>📫 Connect: [@ashu.tiwari_25](https://instagram.com/ashu.tiwari_25)<br>
@@ -49,3 +51,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-tiwari-123/ashu-tiwari-123/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ashu-tiwari-123/ashu-tiwari-123/output/github-snake.svg" />
 </picture> -->
+
